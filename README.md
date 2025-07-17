@@ -25,7 +25,7 @@ npm install
 ```
 BOT_TOKEN=токен_твоего_бота
 TELEGRAM_ID=твой_telegram_id
-PHONE_NUMBER=+998xxxxxxxxx
+PHONE_NUMBER=+xxxxxxxxxxxxx
 TFA_PASSWORD=пароль_если_есть_2FA
 API_ID=твой_api_id
 API_HASH=твой_api_hash
