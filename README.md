@@ -25,20 +25,16 @@
 
 ## 🚀 Быстрый старт
 
-1. Склонируйте репозиторий:
+1. **Склонируйте репозиторий:**
 
-   
-   
-```git
-git clone [https://github.com/rustemuz/telegram-gifts-autobuyer/.git](https://github.com/rustemuz/telegram-gifts-autobuyer/git)
-```bash
-cd telegram-gifts-autobuyer
-
-````
-2. Установите зависимости:
    ```bash
-npm install
-````
+   git clone https://github.com/rustemuz/telegram-gifts-autobuyer.git
+   cd telegram-gifts-autobuyer
+
+2. **Установите зависимости:**
+
+   ```bash
+   npm install
 
 ---
 
