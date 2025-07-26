@@ -27,10 +27,11 @@
 
 1. Склонируйте репозиторий:
 
-   ```bash
-   ```
-
-git clone [https://github.com/your-repo/telegram-gifts-autobuyer.git](https://github.com/your-repo/telegram-gifts-autobuyer.git)
+   
+   
+```git
+git clone [https://github.com/rustemuz/telegram-gifts-autobuyer/.git](https://github.com/rustemuz/telegram-gifts-autobuyer/git)
+```bash
 cd telegram-gifts-autobuyer
 
 ````
